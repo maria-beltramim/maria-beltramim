@@ -2,7 +2,7 @@
 
 <!-- Logo do colégio -->
 <p align="center">
-  <img src="https://link-da-logo-da-escola.com/logo.png" alt="Logo do Colégio" width="150"/>
+  <img src="[https://link-da-logo-da-escola.com/logo.png](https://especiais.gazetadopovo.com.br/wp-content/uploads/sites/6/2020/10/06100201/logo-marista.png)" alt="Logo do Colégio" width="150"/>
 </p>
 
 <p align="center">
